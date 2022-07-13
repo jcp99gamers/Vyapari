@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754016289351",
+    "project_id": "vyapari-jcp-hrai",
+    "storage_bucket": "vyapari-jcp-hrai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754016289351:android:7b8fd78f918ac7bc366762",
+        "android_client_info": {
+          "package_name": "nox_vision.jcp.vyapari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754016289351-4462e887r01mrrb3v3r07icl9negu9ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeO8r-_O98uitui31RJTq4MSCWVQLlsqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754016289351-4462e887r01mrrb3v3r07icl9negu9ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
